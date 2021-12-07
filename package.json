@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Exercice du cours openclassrooms \"PAssez au Full Stack avec Node.js, Express et MongoDB\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remi971/OCR-fullstack-express.git"
+  },
+  "author": "Remi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remi971/OCR-fullstack-express/issues"
+  },
+  "homepage": "https://github.com/Remi971/OCR-fullstack-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
